@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omar-adzagic&theme=dracula" alt="Profile Details" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=omar-adzagic&theme=dark&border_radius=4&hide_longest_streak=true)](https://git.io/streak-stats)
